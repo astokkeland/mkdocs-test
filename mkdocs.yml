@@ -1,5 +1,5 @@
-site_name: Event Issuer
-site_description: Event Issuer
+site_name: Bullet Platform
+site_description: Bullet Platform Wiki
 
 nav:
   - Introduction: index.md
