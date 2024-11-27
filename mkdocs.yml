@@ -4,15 +4,7 @@ site_description: Bullet Platform Wiki
 nav:
   - Introduction: index.md
   - Terminology: terminology.md
-  - User Guides:
-    - Getting Started: user-guides/getting-started.md
-    - Tenants: user-guides/tenants.md
-    - Subscriptions: user-guides/subscriptions.md
-    - Producing: user-guides/producing.md
-    - Cloudevents: user-guides/cloudevents.md
-    - Tracing: user-guides/tracing.md
-    # - Debugging: user-guides/debugging.md
-    - FAQ: user-guides/faq.md
+  - User Guides: user-guides/
   # - Changelog: changelog.md
   - API Specifications:
     - v1: apis/v1.md
