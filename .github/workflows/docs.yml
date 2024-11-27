@@ -42,5 +42,6 @@ jobs:
         run: poetry install
 
       - name: Create version and Publish to gh-pages
-        run: |
-          poetry run mkdocs gh-deploy -c
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
