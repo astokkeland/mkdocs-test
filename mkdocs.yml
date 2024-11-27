@@ -1,5 +1,6 @@
 site_name: Bullet Platform
 site_description: Bullet Platform Wiki
+site_url: https://astokkeland.github.io/mkdocs-test
 
 nav:
   - Introduction: index.md
